@@ -1,0 +1,1 @@
+Repositório destinado ao exercício velocidade media da apostila.
